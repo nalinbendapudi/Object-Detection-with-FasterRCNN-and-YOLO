@@ -1,4 +1,4 @@
-# Object Detection with Faster-RCNN and Yolo
+# Object Detection with Faster-RCNN and YOLO
 
 Object Detection is done using:
 - Yolo (single stage RCNN)
